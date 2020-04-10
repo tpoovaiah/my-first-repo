@@ -1,0 +1,32 @@
+
+
+.center {
+    text-align: center;
+  }
+
+.banner {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+div {
+    margin: 0 auto;
+}
+
+.float-left {
+    float: left;
+}
